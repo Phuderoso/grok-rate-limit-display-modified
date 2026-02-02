@@ -1,5 +1,3 @@
-// @downloadURL  https://raw.githubusercontent.com/Phuderoso/grok-rate-limit-display-modified/main/grok-rate-limit-display.user.js
-// @updateURL    https://raw.githubusercontent.com/Phuderoso/grok-rate-limit-display-modified/main/grok-rate-limit-display.user.js
 // ==UserScript==
 // @name         Grok Rate Limit Display - Modded
 // @namespace    http://tampermonkey.net/
@@ -11,6 +9,8 @@
 // @match        https://x.com/grok*
 // @icon         https://img.icons8.com/color/1200/grok--v2.jpg
 // @license      MIT
+// @downloadURL  https://raw.githubusercontent.com/Phuderoso/grok-rate-limit-display-modified/main/grok-rate-limit-display.user.js
+// @updateURL    https://raw.githubusercontent.com/Phuderoso/grok-rate-limit-display-modified/main/grok-rate-limit-display.user.js
 // ==/UserScript==
 
 (function() {
