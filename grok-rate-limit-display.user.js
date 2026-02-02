@@ -1,8 +1,10 @@
+// @downloadURL  https://raw.githubusercontent.com/Phuderoso/grok-rate-limit-display-modified/main/grok-rate-limit-display.user.js
+// @updateURL    https://raw.githubusercontent.com/Phuderoso/grok-rate-limit-display-modified/main/grok-rate-limit-display.user.js
 // ==UserScript==
-// @name         Grok Rate Limit Display - Original + Always Visible + Center
+// @name         Grok Rate Limit Display - Modded
 // @namespace    http://tampermonkey.net/
 // @version      5.2.27-phuderoso-original-fixed
-// @description  Original version with both numbers always displayed (high | low), no hiding while typing, positioned more towards the center.
+// @description  Versão original com os dois números sempre (high | low), sem hide ao digitar, posicionado mais ao centro
 // @author       Blankspeaker (original) + fix para Phuderoso
 // @match        https://grok.com/*
 // @match        https://grok.x.ai/*
