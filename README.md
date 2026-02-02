@@ -1,10 +1,10 @@
 # grok-rate-limit-display-modified
-Modified version of the Grok Rate Limit Display userscript to show query limits in Grok AI. Changes: always visible, position in the lower right corner more towards the center, no hiding while typing. Original by Blankspeaker on GreasyFork.
+Modified version of the Grok Rate Limit Display Tampermonkey userscript to show query limits in Grok AI. Changes: always visible, position in the lower right corner more towards the center, no hiding while typing. Original by Blankspeaker on GreasyFork.
 
 
 ## Grok Rate Limit Display - Modified
 
-Modified version of the original userscript to display query limits in Grok AI (grok.x.ai).
+Modified version of the original Tampermonkey userscript to display query limits in Grok AI (grok.x.ai).
 Always shows high | low (or timer | low), in a fixed position in the lower right corner towards the center, without disappearing while typing.
 
 ### Features:
